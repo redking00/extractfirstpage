@@ -1,0 +1,1 @@
+importScripts("./iuw644e.js"),onmessage=w=>{let e=null,_=null;try{e=fdsaoiu67623u([new Uint8Array(w.data.ceiu44),1])}catch(a){_=a}postMessage({eww10:w.data.eww10,eww11:e,eww12:_})};
